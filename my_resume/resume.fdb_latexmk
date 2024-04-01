@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1710470098.54975 "resume.xdv" "resume.pdf" "resume" 1710470099.50238 0
-  "resume.xdv" 1710470098 42440 a51ecb68f7d4537fcd2d4511ebe86ab8 "xelatex"
+["xdvipdfmx"] 1711959177.66521 "resume.xdv" "resume.pdf" "resume" 1711959178.62951 0
+  "resume.xdv" 1711959177 43132 a98d20e6a7fbbd4ca3233388bd1456c9 "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1710470094.46392 "d:/NYCU_Program/Awesome-CV/my_cv/resume.tex" "resume.xdv" "resume" 1710470099.4941 0
+["xelatex"] 1711959173.70819 "d:/NYCU_Program/Awesome-CV/my_resume/resume.tex" "resume.xdv" "resume" 1711959178.62103 0
   "awesome-cv.cls" 1710470004 30403 8d40609025f93862de82a3e783397186 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1706521156 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1706522635 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
@@ -181,12 +181,12 @@
   "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1706520498 41009 84b61f42d16d06bedb915f57aa2374cf ""
   "c:/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1706522774 9050856 da0f9eb02cfd1b962f6b597e1450d270 ""
   "c:/texlive/2023/texmf.cnf" 1706522649 713 e69b156964470283e0530f5060668171 ""
-  "d:/NYCU_Program/Awesome-CV/my_cv/resume.tex" 1710470089 4090 0b71a5aa8898c2fef995e5809821c028 ""
+  "d:/NYCU_Program/Awesome-CV/my_resume/resume.tex" 1710470089 4090 0b71a5aa8898c2fef995e5809821c028 ""
   "image/profile3.jpg" 1709918358 73074 a75dd284c45d1f9a33d4359fdf480222 ""
-  "resume.aux" 1710470098 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
+  "resume.aux" 1711959177 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
   "resume.tex" 1710470089 4090 0b71a5aa8898c2fef995e5809821c028 ""
   "resume/coursework.tex" 1709922262 2027 e73489c6c1538d97d724226533683703 ""
-  "resume/education.tex" 1709922137 1705 0579884572ce199253ca44f24eb3298f ""
+  "resume/education.tex" 1711959173 1799 02f140ab1821c1e88b6001bca2e5c49d ""
   "resume/honors.tex" 1710263316 1729 81e21a1e3220f13b1c8f5dadc3ea60de ""
   "resume/project.tex" 1710262527 3092 269da6bd0acaab24d44e9d398f82ff7e ""
   (generated)
